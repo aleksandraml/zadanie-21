@@ -1,0 +1,11 @@
+section > p {
+     width: 100px; height: 100px; background: rgb(194, 45, 29); 
+    }
+
+.one{
+     background-color: blueviolet;
+}
+
+.two{
+     opacity:0.9;
+}
